@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className=" py-2 px-4 bg-gray-200">
-        <div className=" hidden md:flex justify-end items-center">
+        <div className=" hidden md:flex justify-end items-center margin-right: 100px;">
           <div className="flex">
             <NavbarFirstRowItem text="Resources" />
             <NavbarFirstRowItem text="Simplilearn for Business" />
@@ -24,6 +24,8 @@ const Navbar = () => {
           {/* <NavbarSecondRowItem type="allCourses" /> */}
           <Button text="All Courses" />
           <NavbarSecondRowItem type="search" />
+          {/* <Button text="Search" /> */}
+
           <NavbarSecondRowItem type="login" />
         </div>
       </div>
