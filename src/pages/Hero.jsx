@@ -49,8 +49,7 @@ const Hero = () => {
               controls
             >
               <source
-                src="https://www.vecteezy.com/video/39671750/fatigued-software-programmer-working-overnight-at-home-taking-break-from-coding-to-stretch-at-desk-chair-overworked-it-professional-feeling-exhausted-pausing-tasks-to-rest-camera-a
-                "
+                src="https://www.youtube.com/watch?v=kLqAGklbmq8"
                 type="video/mp4"
               />
               Your browser does not support the video tag.
